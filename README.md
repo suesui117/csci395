@@ -2,6 +2,6 @@
 a basic website 
 
 
-HELLOOOOOOOO
+Sue's first webpage
 
-https://mtlynch3.github.io/a_website/
+https://suesui117.github.io/csci395/
