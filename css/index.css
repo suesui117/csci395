@@ -6,8 +6,6 @@ body {
 
 }
 
-
-
 a {
   text-decoration: none;
   color: hotpink;
@@ -16,3 +14,11 @@ a {
   border-radius: 25px;
   margin: 20px;
 }
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
+
+
