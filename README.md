@@ -1,6 +1,4 @@
 # a_website
-a basic website 
-
 
 Sue's first webpage
 
